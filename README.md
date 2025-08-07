@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kanzariya</h1>
 <h3 align="center">I am learning to become among the top 1% of Data Scientist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-kanzariya&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-kanzariya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durgesh-kanzariya" alt="durgesh-kanzariya" /></a> </p>
-
 - 🔭 I’m currently working on [Dukan Sathi flutter application](https://github.com/durgesh-kanzariya/Dukan-Sathi-Mobile-Application)
 
 - 🌱 I’m currently learning **Flutter, Pandas**
@@ -26,6 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=durgesh-kanzariya&show_icons=true&locale=en" alt="durgesh-kanzariya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durgesh-kanzariya&" alt="durgesh-kanzariya" /></p>
+
 
 
 <!--
