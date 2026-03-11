@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Durgesh!+👋;Data+Scientist+%7C+Developer" alt="Typing SVG" />
 </div>
 
-
 # 💫 About Me:
 
 🔭 I'm currently working on Optimizing Predictive Maintenance models. Specifically, I'm refining my analysis of the NASA C-MAPSS dataset to increase the accuracy of Remaining Useful Life (RUL) predictions for complex machinery.<br>🌱 I'm currently learning The math behind Deep Learning architectures (CNNs and RNNs) and how to deploy ML models at scale using Cloud Computing.<br>👯 I’m looking to collaborate on Open-source Data Science initiatives, particularly projects involving Exploratory Data Analysis (EDA), automated feature engineering, or predictive modeling for social good.<br>💬 Ask me about Time-series forecasting, Python for Data Science (NPTEL Silver Medalist 🥈), and how to transform messy datasets into meaningful visualizations.<br>⚡ Fun fact: I find myself analyzing the probability of daily events—I once tried to model the "optimal path" through a grocery store to minimize time spent based on historical foot traffic data!
@@ -57,8 +56,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/durgesh-kanzariya/durgesh-kanzariya/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
