@@ -26,21 +26,6 @@
 
 ### Databases & Tools
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-## 🚀 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=durgesh-kanzariya&repo=traveldost&theme=dark)](https://github.com/durgesh-kanzariya/traveldost)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=durgesh-kanzariya&repo=Aero-Guard&theme=dark)](https://github.com/durgesh-kanzariya/Aero-Guard)
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=durgesh-kanzariya&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=durgesh-kanzariya&theme=dark&hide_border=false" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgesh-kanzariya&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
 
 ### ✍️ Random Dev Quote
 <div align="center">
